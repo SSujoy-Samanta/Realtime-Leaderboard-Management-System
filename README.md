@@ -294,8 +294,6 @@ curl http://localhost:8080/api/ws/stats
 MIT License
 
 ## 🙏 Acknowledgments
-
-- Built for Matiks Internship Assignment
 - Inspired by gaming leaderboard systems (PUBG, Fortnite)
 
 ---
